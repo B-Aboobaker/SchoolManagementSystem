@@ -27,7 +27,7 @@ Design and implement a Windows Forms application for a school management system.
 - Create a corresponding table in the SchoolManagementSystem Database called StudentDetails.
 <br><br>  <img src="assets/images/SMS1.png" alt="">
 
-2. Teacher Management:
+#### Teacher Management:
 - Ability to add new teachers to the system. 
 - Ability to edit teacher details such as name, contact information, and subject specialization. 
 - Ability to delete teachers from the system. 
@@ -35,7 +35,7 @@ Design and implement a Windows Forms application for a school management system.
 - Create a corresponding table in the SchoolManagementSystem Database called TeacherDetails. 
 <br><br>  <img src="assets/images/SMS2.png" alt="">
 
-3. Course Management:
+#### Course Management:
 - Ability to create new courses with a title, description, and associated teacher. 
 - Ability to edit course details such as title, description, and assigned teacher. 
 - Ability to delete courses from the system. 
@@ -43,7 +43,7 @@ Design and implement a Windows Forms application for a school management system.
 - Create a corresponding table in the SchoolManagementSystem Database called CourseDetails. 
 <br><br>  <img src="assets/images/SMS3.png" alt="">
 
-4. User Sign-Up and Login Interface:
+#### User Sign-Up and Login Interface:
 - The application should have an intuitive and user-friendly interface with appropriate controls (textboxes, buttons, etc.) for each functionality. 
 - The user interface should provide clear instructions and feedback to guide the user in performing the desired actions. 
 - The user can register their username and password and the details should be saved to a table in your SQL Database called UserDetails. 
@@ -53,17 +53,19 @@ Design and implement a Windows Forms application for a school management system.
 - To log in, the details used should match the credentials in the Database to provide access to the School Management System. Appropriate messages should be displayed if a user logs in with a Wrong Password and or Username or tries to log in without entering either the Username or Password (Message Box showing, enter Username or Password). 
 <br><br>  <img src="assets/images/SMS5.png" alt="">
 
-5. Considerations:
+#### Considerations:
 - Implement appropriate data structures and classes to represent students, teachers, courses, and their relationships. 
 - Use proper validation techniques to ensure data integrity and handle potential errors. 
 - Implement suitable search and filtering mechanisms to enhance the usability of the application. 
 - Apply good coding practices, such as following naming conventions, organizing code into logical modules, and commenting where necessary. 
 - Implement error handling and exception management to provide a robust application. 
 
-6. Your task is to design and implement the Windows Forms application that fulfills the requirements outlined above. Consider the functionalities, user interface, and data management aspects of the application. Use a database to persist the data. 
-
-- Database with all the required tables: 
-<br><br>  <img src="assets/images/SMS6.png" alt="">
+#### Database with all the required tables:
+- UserDetails
+- StudentDetails
+- TeacherDetails
+- CourseDetails
+<br><br> <img src="assets/images/SMS6.png" alt="">
 
 
 
