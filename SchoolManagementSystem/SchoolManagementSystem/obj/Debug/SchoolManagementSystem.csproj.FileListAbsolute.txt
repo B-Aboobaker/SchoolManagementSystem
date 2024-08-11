@@ -1,0 +1,13 @@
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.SignUp.resources
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Login.resources
+C:\Users\Aboobaker\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentManagement.resources
