@@ -121,7 +121,7 @@ The user can update a student’s details:
 
 
 Updated Student details: 
-<br> <img src="assets/images/SMS17.png" alt="Student Management System image 17">
+<br> <img src="assets/images/SMS17.png" alt="Student Management System image 17" width=567px>
 
 
 
